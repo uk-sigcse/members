@@ -11,6 +11,7 @@ Details on how you can edit this page are at the bottom of the page.
 | Charles BOISVERT|  [shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert](https://www.shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert) |
 | Brett BECKER | [people.ucd.ie/brett.becker](https://people.ucd.ie/brett.becker) |
 | Steven BRADLEY | [www.durham.ac.uk/staff/s-p-bradley](https://www.durham.ac.uk/staff/s-p-bradley/) |
+| Neil BROWN | [www.kcl.ac.uk/people/dr-neil-brown-1](https://www.kcl.ac.uk/people/dr-neil-brown-1) |
 | Janet CARTER | [www.kent.ac.uk/computing/people/3101/carter-janet](https://www.kent.ac.uk/computing/people/3101/carter-janet) |
 | Tom CRICK | [www.swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
