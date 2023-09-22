@@ -18,6 +18,7 @@ Details on how you can edit this page are below.
 | Ryan CROSBY | [www.durham.ac.uk/staff/ryan-crosby/](https://www.durham.ac.uk/staff/ryan-crosby/) |
 | Tom CRICK | [www.swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
+| Paul CURZON | [www.eecs.qmul.ac.uk/~pc](https://www.eecs.qmul.ac.uk/~pc/)
 | Quntin CUTTS | [www.gla.ac.uk/schools/computing/staff/quintincutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
 | Andrew CSIZMADIA | [newman.ac.uk/staff/andrew-csizmadia](https://www.newman.ac.uk/staff/andrew-csizmadia/) |
 | Nicky DANINO    | [research.leedstrinity.ac.uk/en/persons/nicky-danino](https://research.leedstrinity.ac.uk/en/persons/nicky-danino) |
