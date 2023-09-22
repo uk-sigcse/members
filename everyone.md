@@ -7,7 +7,8 @@ Details on how you can edit this page are below.
 
 | Firstname SURNAME | Institutional website |
 | ----------------- | --------------------- |
-| Troy ASTARTE | [www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k/](https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k/) |
+| Eleni AKRIDA | [www.durham.ac.uk/staff/eleni-akrida](https://www.durham.ac.uk/staff/eleni-akrida/) |
+| Troy ASTARTE | [www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k](https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k/) |
 | Charles BOISVERT|  [shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert](https://www.shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert) |
 | Brett BECKER | [people.ucd.ie/brett.becker](https://people.ucd.ie/brett.becker) |
 | Steven BRADLEY | [www.durham.ac.uk/staff/s-p-bradley](https://www.durham.ac.uk/staff/s-p-bradley/) |
@@ -17,6 +18,7 @@ Details on how you can edit this page are below.
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
 | Quntin CUTTS | [www.gla.ac.uk/schools/computing/staff/quintincutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
 | Andrew CSIZMADIA | [newman.ac.uk/staff/andrew-csizmadia](https://www.newman.ac.uk/staff/andrew-csizmadia/) |
+| Nicky DANINO    | [research.leedstrinity.ac.uk/en/persons/nicky-danino](https://research.leedstrinity.ac.uk/en/persons/nicky-danino) |
 | James DAVENPORT | [people.bath.ac.uk/masjhd](https://people.bath.ac.uk/masjhd/) |
 | Marie DEVLIN | [www.ncl.ac.uk/computing/staff/profile/mariedevlin.html](https://www.ncl.ac.uk/computing/staff/profile/mariedevlin.html) |
 | Konstantinos DOMDOUZIS | [www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis](https://www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis) |
@@ -24,8 +26,10 @@ Details on how you can edit this page are below.
 | Roseanne ENGLISH | [www.strath.ac.uk/staff/englishrosannedr](https://www.strath.ac.uk/staff/englishrosannedr/) |
 | Sally FINCHER | [www.kent.ac.uk/computing/people/3153/fincher-sally](https://www.kent.ac.uk/computing/people/3153/fincher-sally) |
 | Marco GILARDI | [research-portal.uws.ac.uk/en/persons/marco-gilardi](https://research-portal.uws.ac.uk/en/persons/marco-gilardi) |
+| Martin GOODFELLOW | [www.strath.ac.uk/staff/goodfellowmartindr](https://www.strath.ac.uk/staff/goodfellowmartindr/) |
 | Neil GORDON | [www.hull.ac.uk/staff-directory/neil-gordon](https://www.hull.ac.uk/staff-directory/neil-gordon) |
 | Tony GURNEY | [research-portal.uws.ac.uk/en/persons/tony-gurney](https://research-portal.uws.ac.uk/en/persons/tony-gurney) |
+| Phil HACKETT | [www.open.ac.uk/people/ph8337](https://www.open.ac.uk/people/ph8337) |
 | Duncan HULL | [personalpages.manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) |
 | Mike JOY | [warwick.ac.uk/mikejoy](https://warwick.ac.uk/mikejoy) |
 | Karen KEAR | [www.open.ac.uk/people/klk2](https://www.open.ac.uk/people/klk2) |
