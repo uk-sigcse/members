@@ -1,5 +1,7 @@
 # Members
-An editable _Who's Who_ list of UK SIGCSE members, ordered alphabetically by SURNAME. Similar to Amy Ko's list of faculty at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer) but for the UK. Some of these people also have research groups which are listed at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
+An editable _Who's Who_ list of UK SIGCSE members, ordered alphabetically by SURNAME. Similar to Amy Ko's list of faculty at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer) but for the UK. 
+
+Some of these people also have research group pages which are listed at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
 Details on how you can edit this list are at the bottom of the page.
 
@@ -34,16 +36,17 @@ Details on how you can edit this list are at the bottom of the page.
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
 | Sue SENTANCE | [www.cst.cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
 | Sally SMITH | [napier.ac.uk/people/sally-smith](https://www.napier.ac.uk/people/sally-smith) |
-| John TUCKER | [www.swansea.ac.uk/staff/j.v.tucker/](https://www.swansea.ac.uk/staff/j.v.tucker/) |
+| John TUCKER | [www.swansea.ac.uk/staff/j.v.tucker](https://www.swansea.ac.uk/staff/j.v.tucker/) |
 | Jane WAITE | [www.cst.cam.ac.uk/people/jw2251](https://www.cst.cam.ac.uk/people/jw2251) |
 | Michel WERMELINGER | [www.open.ac.uk/people/mw4687](https://www.open.ac.uk/people/mw4687) |
 | Adriana WILDE | [www.southampton.ac.uk/people/5x82lq/doctor-adriana-wilde](https://www.southampton.ac.uk/people/5x82lq/doctor-adriana-wilde) |
 | Mark ZARB | [rgu-repository.worktribe.com/person/77298/mark-zarb](https://rgu-repository.worktribe.com/person/77298/mark-zarb) |
 
+# Editing this page 
 You can add yourself to the list by: 
 
 1. Logging into [github.com](https://www.github.com)
-2. Clicking the `edit` button, looks like pencil top right, in any web browser
+2. Clicking the `edit this file` button, which looks like pencil (top right), in any web browser
 3. Click `commmit changes` to save your changes
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
