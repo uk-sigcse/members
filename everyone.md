@@ -24,6 +24,7 @@ Details on how you can edit this page are below.
 | James DAVENPORT | [people.bath.ac.uk/masjhd](https://people.bath.ac.uk/masjhd/) |
 | Marie DEVLIN | [www.ncl.ac.uk/computing/staff/profile/mariedevlin.html](https://www.ncl.ac.uk/computing/staff/profile/mariedevlin.html) |
 | Konstantinos DOMDOUZIS | [www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis](https://www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis) |
+| Chris DOUCE | [www.open.ac.uk/people/crd96](https://www.open.ac.uk/people/crd96) |
 | Matthew ENGLAND | [pureportal.coventry.ac.uk/en/persons/matthew-england](https://pureportal.coventry.ac.uk/en/persons/matthew-england) |
 | Roseanne ENGLISH | [www.strath.ac.uk/staff/englishrosannedr](https://www.strath.ac.uk/staff/englishrosannedr/) |
 | Sally FINCHER | [www.kent.ac.uk/computing/people/3153/fincher-sally](https://www.kent.ac.uk/computing/people/3153/fincher-sally) |
