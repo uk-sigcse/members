@@ -62,8 +62,8 @@ You can update, add or remove information from this if you:
 2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
 3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser 
     * ... or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
-4. Make your changes 
-5. Click `commmit changes` to save them
+4. Make your changes and `preview` them to check they look sensible
+5. Once you are happy, click `commmit changes` to save them
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
 
