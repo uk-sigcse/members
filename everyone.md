@@ -31,6 +31,7 @@ Details on how you can edit this page are below.
 | Joseph MAGUIRE | [www.gla.ac.uk/schools/computing/staff/josephmaguire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) |
 | Faye MITCHELL | [pureportal.coventry.ac.uk/en/persons/faye-mitchell](https://pureportal.coventry.ac.uk/en/persons/faye-mitchell) |
 | Michael KOLLING | [www.kcl.ac.uk/people/michael-kolling](https://www.kcl.ac.uk/people/michael-kolling) |
+| Nicola LOOKER | [www.edgehill.ac.uk/person/nicola-looker](https://www.edgehill.ac.uk/person/nicola-looker) |
 | Faron MOLLER | [www.swansea.ac.uk/staff/f.g.moller](https://www.swansea.ac.uk/staff/f.g.moller/) |
 | Zahra MONTAZERI | [research.manchester.ac.uk/en/persons/zahra.montazeri](https://research.manchester.ac.uk/en/persons/zahra.montazeri) |
 | Karen O'SHEA | [www.uclan.ac.uk/academics/karen-oshea](https://www.uclan.ac.uk/academics/karen-oshea) |
