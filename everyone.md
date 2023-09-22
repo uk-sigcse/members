@@ -55,9 +55,11 @@ Details on how you can edit this page are below.
 # Editing this page 
 You can add yourself to this page by: 
 
-1. Logging into [github.com](https://www.github.com)
-2. Clicking the `edit this file` button, which looks like pencil (top right), in any web browser or by going to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
-3. Make your changes then click `commmit changes` to save your changes
+1. Login to [github.com](https://www.github.com)
+2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
+3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser (or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md))
+4. Make your changes 
+5. Click `commmit changes` to save them
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
 
