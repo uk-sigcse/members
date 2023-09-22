@@ -3,7 +3,7 @@ An editable _Who's Who_ list of UK SIGCSE members, ordered alphabetically by SUR
 
 Some of these people also have research group pages which are listed at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
-Details on how you can edit this list are at the bottom of the page.
+Details on how you can edit this page are at the bottom of the page.
 
 | Firstname SURNAME | Institutional website |
 | ----------------- | --------------------- |
@@ -27,6 +27,7 @@ Details on how you can edit this list are at the bottom of the page.
 | Tony GURNEY | [research-portal.uws.ac.uk/en/persons/tony-gurney](https://research-portal.uws.ac.uk/en/persons/tony-gurney) |
 | Duncan HULL | [personalpages.manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) |
 | Mike JOY | [warwick.ac.uk/mikejoy](https://warwick.ac.uk/mikejoy) |
+| Joseph MAGUIRE | [www.gla.ac.uk/schools/computing/staff/josephmaguire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) |
 | Faye MITCHELL | [pureportal.coventry.ac.uk/en/persons/faye-mitchell](https://pureportal.coventry.ac.uk/en/persons/faye-mitchell) |
 | Michael KOLLING | [www.kcl.ac.uk/people/michael-kolling](https://www.kcl.ac.uk/people/michael-kolling) |
 | Faron MOLLER | [www.swansea.ac.uk/staff/f.g.moller](https://www.swansea.ac.uk/staff/f.g.moller/) |
@@ -36,6 +37,7 @@ Details on how you can edit this list are at the bottom of the page.
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
 | Sue SENTANCE | [www.cst.cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
 | Sally SMITH | [napier.ac.uk/people/sally-smith](https://www.napier.ac.uk/people/sally-smith) |
+| Becky STRACHAN | [https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/](www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
 | John TUCKER | [www.swansea.ac.uk/staff/j.v.tucker](https://www.swansea.ac.uk/staff/j.v.tucker/) |
 | Jane WAITE | [www.cst.cam.ac.uk/people/jw2251](https://www.cst.cam.ac.uk/people/jw2251) |
 | Michel WERMELINGER | [www.open.ac.uk/people/mw4687](https://www.open.ac.uk/people/mw4687) |
@@ -43,11 +45,11 @@ Details on how you can edit this list are at the bottom of the page.
 | Mark ZARB | [rgu-repository.worktribe.com/person/77298/mark-zarb](https://rgu-repository.worktribe.com/person/77298/mark-zarb) |
 
 # Editing this page 
-You can add yourself to the list by: 
+You can add yourself to this page by: 
 
 1. Logging into [github.com](https://www.github.com)
-2. Clicking the `edit this file` button, which looks like pencil (top right), in any web browser
-3. Click `commmit changes` to save your changes
+2. Clicking the `edit this file` button, which looks like pencil (top right), in any web browser or by going to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
+3. Make your changes then click `commmit changes` to save your changes
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
 
