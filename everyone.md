@@ -9,6 +9,7 @@ Details on how you can edit this page are below.
 | ----------------- | --------------------- |
 | Eleni AKRIDA | [www.durham.ac.uk/staff/eleni-akrida](https://www.durham.ac.uk/staff/eleni-akrida/) |
 | Troy ASTARTE | [www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k](https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k/) |
+| Dharini BALASUBRAMANIAM | [www.st-andrews.ac.uk/computer-science/people/db9/](https://www.st-andrews.ac.uk/computer-science/people/db9/) |
 | Charles BOISVERT|  [shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert](https://www.shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert) |
 | Brett BECKER | [people.ucd.ie/brett.becker](https://people.ucd.ie/brett.becker) |
 | Steven BRADLEY | [www.durham.ac.uk/staff/s-p-bradley](https://www.durham.ac.uk/staff/s-p-bradley/) |
