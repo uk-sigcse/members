@@ -38,7 +38,7 @@ Details on how you can edit this page are at the bottom of the page.
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
 | Sue SENTANCE | [www.cst.cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
 | Sally SMITH | [napier.ac.uk/people/sally-smith](https://www.napier.ac.uk/people/sally-smith) |
-| Becky STRACHAN | [https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/](www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
+| Becky STRACHAN | [www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/](https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
 | John TUCKER | [www.swansea.ac.uk/staff/j.v.tucker](https://www.swansea.ac.uk/staff/j.v.tucker/) |
 | Jane WAITE | [www.cst.cam.ac.uk/people/jw2251](https://www.cst.cam.ac.uk/people/jw2251) |
 | Michel WERMELINGER | [www.open.ac.uk/people/mw4687](https://www.open.ac.uk/people/mw4687) |
