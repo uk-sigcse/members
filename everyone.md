@@ -15,7 +15,7 @@ Details on how you can edit this page are below.
 | Janet CARTER | [www.kent.ac.uk/computing/people/3101/carter-janet](https://www.kent.ac.uk/computing/people/3101/carter-janet) |
 | Tom CRICK | [www.swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
-| Quntin CUTTS | [www.gla.ac.uk/schools/computing/staff/quintincutts/](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
+| Quntin CUTTS | [www.gla.ac.uk/schools/computing/staff/quintincutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
 | Andrew CSIZMADIA | [newman.ac.uk/staff/andrew-csizmadia](https://www.newman.ac.uk/staff/andrew-csizmadia/) |
 | James DAVENPORT | [people.bath.ac.uk/masjhd](https://people.bath.ac.uk/masjhd/) |
 | Marie DEVLIN | [www.ncl.ac.uk/computing/staff/profile/mariedevlin.html](https://www.ncl.ac.uk/computing/staff/profile/mariedevlin.html) |
