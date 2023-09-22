@@ -15,6 +15,7 @@ Details on how you can edit this page are below.
 | Steven BRADLEY | [www.durham.ac.uk/staff/s-p-bradley](https://www.durham.ac.uk/staff/s-p-bradley/) |
 | Neil BROWN | [www.kcl.ac.uk/people/dr-neil-brown-1](https://www.kcl.ac.uk/people/dr-neil-brown-1) |
 | Janet CARTER | [www.kent.ac.uk/computing/people/3101/carter-janet](https://www.kent.ac.uk/computing/people/3101/carter-janet) |
+| Ryan CROSBY | [www.durham.ac.uk/staff/ryan-crosby/](https://www.durham.ac.uk/staff/ryan-crosby/) |
 | Tom CRICK | [www.swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
 | Quntin CUTTS | [www.gla.ac.uk/schools/computing/staff/quintincutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
