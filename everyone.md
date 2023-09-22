@@ -57,7 +57,8 @@ You can add yourself to this page by:
 
 1. Login to [github.com](https://www.github.com)
 2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
-3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser (or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md))
+3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser 
+    * ... or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
 4. Make your changes 
 5. Click `commmit changes` to save them
 
