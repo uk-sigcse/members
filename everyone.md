@@ -54,7 +54,7 @@ Details on how you can edit this page are below.
 | Mark ZARB | [rgu-repository.worktribe.com/person/77298/mark-zarb](https://rgu-repository.worktribe.com/person/77298/mark-zarb) |
 
 # Editing this page 
-You can add yourself to this page by: 
+You can update, add or remove information from this if you: 
 
 1. Login to [github.com](https://www.github.com)
 2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
@@ -65,6 +65,6 @@ You can add yourself to this page by:
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
 
-Please use your institutional website if possible so readers can quickly see where you work:
+Please use your institutional website if possible so readers can quickly see where you work.
 
 
