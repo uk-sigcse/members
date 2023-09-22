@@ -1,9 +1,9 @@
 # Members of UK SIGCSE
-An editable _Who's Who_ list of UK SIGCSE members, ordered alphabetically by SURNAME. Similar to Amy Ko's list of faculty at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer) but for the UK. 
+An editable _Who's Who_ list of UK SIGCSE members, ordered alphabetically by SURNAME. This is a UK version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
 
 Some of these people also have research group pages which are listed seperately at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
-Details on how you can edit this page are at the bottom of the page.
+Details on how you can edit this page are below.
 
 | Firstname SURNAME | Institutional website |
 | ----------------- | --------------------- |
@@ -38,7 +38,7 @@ Details on how you can edit this page are at the bottom of the page.
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
 | Sue SENTANCE | [www.cst.cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
 | Sally SMITH | [napier.ac.uk/people/sally-smith](https://www.napier.ac.uk/people/sally-smith) |
-| Becky STRACHAN | [www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/](https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
+| Becky STRACHAN | [www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan](https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
 | John TUCKER | [www.swansea.ac.uk/staff/j.v.tucker](https://www.swansea.ac.uk/staff/j.v.tucker/) |
 | Jane WAITE | [www.cst.cam.ac.uk/people/jw2251](https://www.cst.cam.ac.uk/people/jw2251) |
 | Michel WERMELINGER | [www.open.ac.uk/people/mw4687](https://www.open.ac.uk/people/mw4687) |
@@ -54,6 +54,6 @@ You can add yourself to this page by:
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
 
-Use your institutional website if possible so people can quickly see where you work:
+Please use your institutional website if possible so readers can quickly see where you work:
 
 
