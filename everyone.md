@@ -32,6 +32,7 @@ Details on how you can edit this page are below.
 | Phil HACKETT | [www.open.ac.uk/people/ph8337](https://www.open.ac.uk/people/ph8337) |
 | Duncan HULL | [personalpages.manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) |
 | Mike JOY | [warwick.ac.uk/mikejoy](https://warwick.ac.uk/mikejoy) |
+| Samia KAMAL | [www.brookes.ac.uk/profiles/staff/samia-kamal](https://www.brookes.ac.uk/profiles/staff/samia-kamal) |
 | Karen KEAR | [www.open.ac.uk/people/klk2](https://www.open.ac.uk/people/klk2) |
 | Joseph MAGUIRE | [www.gla.ac.uk/schools/computing/staff/josephmaguire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) |
 | Faye MITCHELL | [pureportal.coventry.ac.uk/en/persons/faye-mitchell](https://pureportal.coventry.ac.uk/en/persons/faye-mitchell) |
