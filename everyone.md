@@ -1,5 +1,5 @@
 # Members of UK SIGCSE
-An editable _Who's Who_ list of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) members, ordered alphabetically by SURNAME. This is a UK version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
+An editable _Who's Who_ list of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) members, ordered alphabetically by SURNAME. This is a UK & Ireland version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
 
 Some of these people also have research group pages which are listed seperately at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
@@ -18,7 +18,7 @@ Details on how you can edit this page are below.
 | Ryan CROSBY | [durham.ac.uk/staff/ryan-crosby/](https://www.durham.ac.uk/staff/ryan-crosby/) |
 | Tom CRICK | [swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
-| Paul CURZON | [eecs.qmul.ac.uk/~pc](https://www.eecs.qmul.ac.uk/~pc/)
+| Paul CURZON | [qmul.ac.uk/~pc](https://www.eecs.qmul.ac.uk/~pc/)
 | Quntin CUTTS | [gla.ac.uk/schools/computing/staff/quintincutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
 | Andrew CSIZMADIA | [newman.ac.uk/staff/andrew-csizmadia](https://www.newman.ac.uk/staff/andrew-csizmadia/) |
 | Nicky DANINO    | [leedstrinity.ac.uk/en/persons/nicky-danino](https://research.leedstrinity.ac.uk/en/persons/nicky-danino) |
