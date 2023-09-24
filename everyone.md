@@ -23,6 +23,7 @@ Details on how you can edit this page are below.
 | Andrew CSIZMADIA | [newman.ac.uk/staff/andrew-csizmadia](https://www.newman.ac.uk/staff/andrew-csizmadia/) |
 | Nicky DANINO    | [research.leedstrinity.ac.uk/en/persons/nicky-danino](https://research.leedstrinity.ac.uk/en/persons/nicky-danino) |
 | James DAVENPORT | [people.bath.ac.uk/masjhd](https://people.bath.ac.uk/masjhd/) |
+| Craig DEAN | [github.com/thargy](https://github.com/thargy) |
 | Marie DEVLIN | [ncl.ac.uk/computing/staff/profile/mariedevlin.html](https://www.ncl.ac.uk/computing/staff/profile/mariedevlin.html) |
 | Konstantinos DOMDOUZIS | [shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis](https://www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis) |
 | Chris DOUCE | [open.ac.uk/people/crd96](https://www.open.ac.uk/people/crd96) |
@@ -48,6 +49,7 @@ Details on how you can edit this page are below.
 | Karen O'SHEA | [uclan.ac.uk/academics/karen-oshea](https://www.uclan.ac.uk/academics/karen-oshea) |
 | Jim PATERSON | [gcu.ac.uk/staff/jimpaterson](https://www.gcu.ac.uk/staff/jimpaterson) |
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
+| Steve RICH | [ada.ac.uk/people/?people=95](https://www.ada.ac.uk/people/?people=95) |
 | Sue SENTANCE | [cst.cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
 | Sally SMITH | [napier.ac.uk/people/sally-smith](https://www.napier.ac.uk/people/sally-smith) |
 | Becky STRACHAN | [northumbria.ac.uk/about-us/our-staff/s/becky-strachan](https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
