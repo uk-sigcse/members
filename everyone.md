@@ -87,4 +87,4 @@ Please use your institutional website if possible so readers can quickly see whe
 
 If you don't want to use Github you can add, change or remove information listed here by [emailing Duncan](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). 
 
-If you're new to Git and Github, you might find [makeapullrequest.com](https://makeapullrequest.com/)
+If you're new to Git and Github, you might find [makeapullrequest.com](https://makeapullrequest.com/) helps you get started.
