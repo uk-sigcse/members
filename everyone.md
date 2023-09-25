@@ -9,13 +9,13 @@ Details on how you can edit this page are below.
 | ----------------- | --------------------- |
 | Eleni AKRIDA | [durham.ac.uk/staff/eleni-akrida](https://www.durham.ac.uk/staff/eleni-akrida/) |
 | Troy ASTARTE | [swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k](https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/astarte-t-k/) |
-| Dharini BALASUBRAMANIAM | [st-andrews.ac.uk/computer-science/people/db9/](https://www.st-andrews.ac.uk/computer-science/people/db9/) |
+| Dharini BALASUBRAMANIAM | [st-andrews.ac.uk/computer-science/people/db9](https://www.st-andrews.ac.uk/computer-science/people/db9/) |
 | Charles BOISVERT|  [shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert](https://www.shu.ac.uk/about-us/our-people/staff-profiles/charles-boisvert) |
 | Brett BECKER | [ucd.ie/brett.becker](https://people.ucd.ie/brett.becker) |
 | Steven BRADLEY | [durham.ac.uk/staff/s-p-bradley](https://www.durham.ac.uk/staff/s-p-bradley/) |
 | Neil BROWN | [kcl.ac.uk/people/dr-neil-brown-1](https://www.kcl.ac.uk/people/dr-neil-brown-1) |
 | Janet CARTER | [kent.ac.uk/computing/people/3101/carter-janet](https://www.kent.ac.uk/computing/people/3101/carter-janet) |
-| Ryan CROSBY | [durham.ac.uk/staff/ryan-crosby/](https://www.durham.ac.uk/staff/ryan-crosby/) |
+| Ryan CROSBY | [durham.ac.uk/staff/ryan-crosby](https://www.durham.ac.uk/staff/ryan-crosby/) |
 | Tom CRICK | [swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
 | Paul CURZON | [qmul.ac.uk/~pc](https://www.eecs.qmul.ac.uk/~pc/)
@@ -74,4 +74,6 @@ You can update, add or remove information from this if you:
 
 Please use your institutional website if possible so readers can quickly see where you work.
 
+# No Github?
 
+If you don't want to use Github you can add, change or remove information listed here by [emailing Duncan](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
