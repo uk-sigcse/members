@@ -1,5 +1,5 @@
 # Members of UK SIGCSE
-An editable _Who's Who_ list of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) members, ordered alphabetically by SURNAME. This is a UK & Ireland version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
+An editable _Who's Who_ list of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) members and people in the UK doing Computing Education Research, ordered alphabetically by SURNAME. This is a UK & Ireland version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
 
 Some of these people lead research group pages which are listed seperately at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
@@ -50,6 +50,7 @@ Details on how you can edit this page are below.
 | Fabio NEMETZ | [bath.ac.uk/en/persons/fabio-nemetz](https://researchportal.bath.ac.uk/en/persons/fabio-nemetz) |
 | Karen O'SHEA | [uclan.ac.uk/academics/karen-oshea](https://www.uclan.ac.uk/academics/karen-oshea) |
 | Jim PATERSON | [gcu.ac.uk/staff/jimpaterson](https://www.gcu.ac.uk/staff/jimpaterson) |
+| Marian PETRE | [open.ac.uk/mp8](http://mcs.open.ac.uk/mp8/) |
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
 | Steve RICH | [ada.ac.uk/people/?people=95](https://www.ada.ac.uk/people/?people=95) |
 | Sue SENTANCE | [cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
