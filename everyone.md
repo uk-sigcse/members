@@ -64,7 +64,7 @@ Details on how you can edit this page are below.
 # Editing this page 
 You can update, add or remove information from this if you: 
 
-1. Login to [github.com](https://www.github.com)
+1. Signup [github.com/signup](https://github.com/signup) or [github.com/login](https://github.com/login)
 2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
 3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser 
     * ... or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
@@ -77,4 +77,6 @@ Please use your institutional website if possible so readers can quickly see whe
 
 # No Github?
 
-If you don't want to use Github you can add, change or remove information listed here by [emailing Duncan](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
+If you don't want to use Github you can add, change or remove information listed here by [emailing Duncan](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). 
+
+If you're new to Git and Github, you might find [makeapullrequest.com](https://makeapullrequest.com/)
