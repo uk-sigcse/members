@@ -1,7 +1,12 @@
 # Members of UK SIGCSE
-An editable _Who's Who_ list of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) members and people in the UK doing Computing Education Research, ordered alphabetically by SURNAME. This is a UK & Ireland version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
+This is an editable _Who's Who_ listing of:
 
-Some of these people lead research group pages which are listed seperately at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
+* Members of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)  
+* People in the UK doing Computing Education Research
+
+Ordered alphabetically by SURNAME, this UK & Ireland version is similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
+
+Some of these people lead research group pages which are also listed at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
 Details on how you can edit this page are below.
 
@@ -53,6 +58,7 @@ Details on how you can edit this page are below.
 | Marian PETRE | [open.ac.uk/mp8](http://mcs.open.ac.uk/mp8/) |
 | Keith QUIlLE | [tudublin.ie/connect/staff-directory/imported-staff/quille.html](https://www.tudublin.ie/connect/staff-directory/imported-staff/quille.html) |
 | Steve RICH | [ada.ac.uk/people/?people=95](https://www.ada.ac.uk/people/?people=95) |
+| Judy ROBERTSON | [ed.ac.uk/profile/judy-robertson](https://www.ed.ac.uk/profile/judy-robertson)
 | Sue SENTANCE | [cam.ac.uk/people/ss2600](https://www.cst.cam.ac.uk/people/ss2600) |
 | Sally SMITH | [napier.ac.uk/people/sally-smith](https://www.napier.ac.uk/people/sally-smith) |
 | Becky STRACHAN | [northumbria.ac.uk/about-us/our-staff/s/becky-strachan](https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/) |
