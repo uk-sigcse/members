@@ -53,6 +53,7 @@ Details on how you can edit this page are below.
 | Catherine MOONEY | [ucd.ie/catherine.mooney](https://people.ucd.ie/catherine.mooney)
 | Zahra MONTAZERI | [manchester.ac.uk/en/persons/zahra.montazeri](https://research.manchester.ac.uk/en/persons/zahra.montazeri) |
 | Fabio NEMETZ | [bath.ac.uk/en/persons/fabio-nemetz](https://researchportal.bath.ac.uk/en/persons/fabio-nemetz) |
+| Paul NUTTER | [pwnutter.cs.manchester.ac.uk](https://pwnutter.cs.manchester.ac.uk/) |
 | Karen O'SHEA | [uclan.ac.uk/academics/karen-oshea](https://www.uclan.ac.uk/academics/karen-oshea) |
 | Jim PATERSON | [gcu.ac.uk/staff/jimpaterson](https://www.gcu.ac.uk/staff/jimpaterson) |
 | Marian PETRE | [open.ac.uk/mp8](http://mcs.open.ac.uk/mp8/) |
