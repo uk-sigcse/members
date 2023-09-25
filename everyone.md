@@ -1,7 +1,7 @@
 # Members of UK SIGCSE
 An editable _Who's Who_ list of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) members, ordered alphabetically by SURNAME. This is a UK & Ireland version similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
 
-Some of these people also have research group pages which are listed seperately at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
+Some of these people lead research group pages which are listed seperately at [uki-sigcse.acm.org/research-groups](https://uki-sigcse.acm.org/research-groups/).
 
 Details on how you can edit this page are below.
 
