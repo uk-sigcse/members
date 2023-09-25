@@ -64,7 +64,7 @@ Details on how you can edit this page are below.
 # Editing this page 
 You can update, add or remove information from this if you: 
 
-1. Signup [github.com/signup](https://github.com/signup) or [github.com/login](https://github.com/login)
+1. Signup at [github.com/signup](https://github.com/signup) or login at [github.com/login](https://github.com/login)
 2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
 3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser 
     * ... or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
