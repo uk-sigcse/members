@@ -40,6 +40,7 @@ Details on how you can edit this page are below.
 | Samia KAMAL | [brookes.ac.uk/profiles/staff/samia-kamal](https://www.brookes.ac.uk/profiles/staff/samia-kamal) |
 | Karen KEAR | [open.ac.uk/people/klk2](https://www.open.ac.uk/people/klk2) |
 | Michael KOLLING | [kcl.ac.uk/people/michael-kolling](https://www.kcl.ac.uk/people/michael-kolling) |
+| Sarah LEWTHWAITE | [https://www.southampton.ac.uk/people/5xdz97/doctor-sarah-lewthwaite] | 
 | Nicola LOOKER | [edgehill.ac.uk/person/nicola-looker](https://www.edgehill.ac.uk/person/nicola-looker) |
 | Joseph MAGUIRE | [gla.ac.uk/schools/computing/staff/josephmaguire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) |
 | Faye MITCHELL | [coventry.ac.uk/en/persons/faye-mitchell](https://pureportal.coventry.ac.uk/en/persons/faye-mitchell) |
