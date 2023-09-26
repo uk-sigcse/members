@@ -1,8 +1,8 @@
 # Members of UK SIGCSE
 This is an editable _Who's Who_ listing of:
 
-* Members of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)  
-* People in the UK doing Computing Education Research
+* Individual members of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)  
+* People in the UK and Ireland involved Computing Education Research and Computer Science Education
 
 Ordered alphabetically by SURNAME, this UK & Ireland version is similar to Amy Ko's global list of people at the bottom of the page at [faculty.washington.edu/ajko/cer](https://faculty.washington.edu/ajko/cer). 
 
@@ -40,6 +40,7 @@ Details on how you can edit this page are below.
 | Neil GORDON | [hull.ac.uk/staff-directory/neil-gordon](https://www.hull.ac.uk/staff-directory/neil-gordon) |
 | Tony GURNEY | [uws.ac.uk/en/persons/tony-gurney](https://research-portal.uws.ac.uk/en/persons/tony-gurney) |
 | Phil HACKETT | [open.ac.uk/people/ph8337](https://www.open.ac.uk/people/ph8337) |
+| Alan HAYES  | [bath.ac.uk/en/persons/alan-hayes](https://researchportal.bath.ac.uk/en/persons/alan-hayes) |
 | Duncan HULL | [manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) |
 | Mike JOY | [warwick.ac.uk/mikejoy](https://warwick.ac.uk/mikejoy) |
 | Samia KAMAL | [brookes.ac.uk/profiles/staff/samia-kamal](https://www.brookes.ac.uk/profiles/staff/samia-kamal) |
