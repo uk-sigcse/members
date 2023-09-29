@@ -20,6 +20,7 @@ Details on how you can edit this page are below.
 | Steven BRADLEY | [durham.ac.uk/staff/s-p-bradley](https://www.durham.ac.uk/staff/s-p-bradley/) |
 | Neil BROWN | [kcl.ac.uk/people/dr-neil-brown-1](https://www.kcl.ac.uk/people/dr-neil-brown-1) |
 | Janet CARTER | [kent.ac.uk/computing/people/3101/carter-janet](https://www.kent.ac.uk/computing/people/3101/carter-janet) |
+| Cornelia CONNOLLY | [universityofgalway.ie/our-research/people/education/corneliaconnolly](https://www.universityofgalway.ie/our-research/people/education/corneliaconnolly/)
 | Ryan CROSBY | [durham.ac.uk/staff/ryan-crosby](https://www.durham.ac.uk/staff/ryan-crosby/) |
 | Tom CRICK | [swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
@@ -91,4 +92,4 @@ Please use your institutional website if possible so readers can quickly see whe
 
 If you don't want to use Github you can add, change or remove information listed here by [emailing Duncan](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). 
 
-If you're new to Git and Github, you might find [makeapullrequest.com](https://makeapullrequest.com/) helps you get started.
+If you're new to `git` and Github, you might find [makeapullrequest.com](https://makeapullrequest.com/) helps you get started.
