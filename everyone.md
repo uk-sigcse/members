@@ -43,6 +43,7 @@ Details on how you can edit this page are below.
 | Phil HACKETT | [open.ac.uk/people/ph8337](https://www.open.ac.uk/people/ph8337) |
 | Alan HAYES  | [bath.ac.uk/en/persons/alan-hayes](https://researchportal.bath.ac.uk/en/persons/alan-hayes) |
 | Duncan HULL | [manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) |
+| Colin JOHNSON | [www.nottingham.ac.uk/computerscience/people/colin.johnson](https://www.nottingham.ac.uk/computerscience/people/colin.johnson) 
 | Mike JOY | [warwick.ac.uk/mikejoy](https://warwick.ac.uk/mikejoy) |
 | Samia KAMAL | [brookes.ac.uk/profiles/staff/samia-kamal](https://www.brookes.ac.uk/profiles/staff/samia-kamal) |
 | Karen KEAR | [open.ac.uk/people/klk2](https://www.open.ac.uk/people/klk2) |
