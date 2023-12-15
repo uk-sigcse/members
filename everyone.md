@@ -1,4 +1,4 @@
-# Members of UK SIGCSE
+# Directory of members of UK SIGCSE
 This is an editable _Who's Who_ listing of:
 
 * Individual members of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)  
