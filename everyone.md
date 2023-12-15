@@ -1,5 +1,5 @@
-# Directory of members of UK SIGCSE
-This is an editable _Who's Who_ listing of:
+# Directory of people interested in UK SIGCSE
+This is an editable opt-in _Who's Who_ listing of:
 
 * Individual members of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)  
 * People in the UK and Ireland involved Computing Education Research and Computer Science Education
